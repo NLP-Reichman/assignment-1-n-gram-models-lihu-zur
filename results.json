@@ -1,7 +1,5 @@
 {
-  "link": {
-    "link": "https://colab.research.google.com/drive/14aR6mJn3C6kTuKQM7akqutac620aA4Wu?usp=sharing"
-  },
+  "link": "https://colab.research.google.com/drive/14aR6mJn3C6kTuKQM7akqutac620aA4Wu?usp=sharing",
   "test_preprocess": {
     "vocab_length": 1804
   },
